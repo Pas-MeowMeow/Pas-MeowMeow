@@ -29,7 +29,7 @@
 * **EVIL Boom Boom** 🇲🇦
 
 <p>
-  <a href="https://discord.com/users/elchagnon">
+  <a href="https://discord.com/users/640313466607108136">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord EVIL" />
   </a>
   <a href="https://github.com/MiaouMeowMiaou">
